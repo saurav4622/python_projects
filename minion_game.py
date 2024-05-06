@@ -1,0 +1,1 @@
+s = ("Enter a string: ")
